@@ -1,0 +1,46 @@
+{
+  "project": "Laboratory Work 4 - Variant 6: Genetic Programming of Heuristics for Discrete Optimization (JSSP)",
+  "dataset_seed": 2026,
+  "num_independent_runs": 30,
+  "seed_start": 1000,
+  "gp": {
+    "population_size": 20,
+    "generations": 15,
+    "tournament_size": 4,
+    "crossover_prob": 0.70,
+    "subtree_mutation_prob": 0.15,
+    "point_mutation_prob": 0.10,
+    "hoist_mutation_prob": 0.05,
+    "max_init_depth": 4,
+    "max_depth": 6,
+    "parsimony_weight": 0.002,
+    "elitism": 2
+  },
+  "direct_ga": {
+    "population_size": 20,
+    "generations": 15,
+    "tournament_size": 4,
+    "crossover_prob": 0.80,
+    "mutation_prob": 0.20,
+    "elitism": 2
+  },
+  "training_instances": [
+    "synth_train_1",
+    "synth_train_2",
+    "synth_train_3",
+    "synth_train_4",
+    "synth_train_5",
+    "synth_train_6",
+    "synth_train_7",
+    "synth_train_8"
+  ],
+  "test_instances": [
+    "FT06",
+    "FT10",
+    "LA01",
+    "LA02",
+    "synth_test_large_1",
+    "synth_test_large_2"
+  ]
+}
+

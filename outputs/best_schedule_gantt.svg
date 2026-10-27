@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="290" viewBox="0 0 1100 290"><style>text{font-family:Arial,sans-serif;fill:#17212b}</style>
+<text x="550.0" y="25" text-anchor="middle" font-size="17" font-weight="bold">Расписание лучшего GP-правила: LA01</text>
+<rect x="110" y="55" width="955" height="31" fill="#f5f7f9"/>
+<text x="102" y="75" text-anchor="end" font-size="12">M1</text>
+<rect x="110" y="90" width="955" height="31" fill="#f5f7f9"/>
+<text x="102" y="110" text-anchor="end" font-size="12">M2</text>
+<rect x="110" y="125" width="955" height="31" fill="#f5f7f9"/>
+<text x="102" y="145" text-anchor="end" font-size="12">M3</text>
+<rect x="110" y="160" width="955" height="31" fill="#f5f7f9"/>
+<text x="102" y="180" text-anchor="end" font-size="12">M4</text>
+<rect x="110" y="195" width="955" height="31" fill="#f5f7f9"/>
+<text x="102" y="215" text-anchor="end" font-size="12">M5</text>
+<rect x="110.00" y="160" width="22.93" height="31" fill="#bab0ac" stroke="white"/>
+<rect x="110.00" y="90" width="28.33" height="31" fill="#4c78a8" stroke="white"/>
+<text x="124.16" y="110" text-anchor="middle" font-size="10" fill="white">J1</text>
+<rect x="110.00" y="195" width="103.86" height="31" fill="#59a14f" stroke="white"/>
+<text x="161.93" y="215" text-anchor="middle" font-size="10" fill="white">J10</text>
+<rect x="110.00" y="55" width="28.33" height="31" fill="#f58518" stroke="white"/>
+<text x="124.16" y="75" text-anchor="middle" font-size="10" fill="white">J2</text>
+<rect x="110.00" y="125" width="51.26" height="31" fill="#9d755d" stroke="white"/>
+<text x="135.63" y="145" text-anchor="middle" font-size="10" fill="white">J8</text>
+<rect x="132.93" y="160" width="93.07" height="31" fill="#ff9da6" stroke="white"/>
+<text x="179.47" y="180" text-anchor="middle" font-size="10" fill="white">J7</text>
+<rect x="138.33" y="90" width="72.84" height="31" fill="#72b7b2" stroke="white"/>
+<text x="174.75" y="110" text-anchor="middle" font-size="10" fill="white">J6</text>
+<rect x="138.33" y="55" width="71.49" height="31" fill="#4c78a8" stroke="white"/>
+<text x="174.07" y="75" text-anchor="middle" font-size="10" fill="white">J1</text>
+<rect x="209.82" y="55" width="111.96" height="31" fill="#b279a2" stroke="white"/>
+<text x="265.79" y="75" text-anchor="middle" font-size="10" fill="white">J5</text>
+<rect x="211.17" y="90" width="103.86" height="31" fill="#e45756" stroke="white"/>
+<text x="263.10" y="110" text-anchor="middle" font-size="10" fill="white">J4</text>
+<rect x="211.17" y="125" width="58.00" height="31" fill="#72b7b2" stroke="white"/>
+<text x="240.17" y="145" text-anchor="middle" font-size="10" fill="white">J6</text>
+<rect x="213.86" y="195" width="128.14" height="31" fill="#4c78a8" stroke="white"/>
+<text x="277.93" y="215" text-anchor="middle" font-size="10" fill="white">J1</text>
+<rect x="226.00" y="160" width="52.61" height="31" fill="#54a24b" stroke="white"/>
+<text x="252.31" y="180" text-anchor="middle" font-size="10" fill="white">J3</text>
+<rect x="278.61" y="160" width="106.56" height="31" fill="#59a14f" stroke="white"/>
+<text x="331.89" y="180" text-anchor="middle" font-size="10" fill="white">J10</text>
+<rect x="315.03" y="90" width="66.09" height="31" fill="#bab0ac" stroke="white"/>
+<text x="348.08" y="110" text-anchor="middle" font-size="10" fill="white">J9</text>
+<rect x="321.77" y="55" width="74.19" height="31" fill="#e45756" stroke="white"/>
+<text x="358.87" y="75" text-anchor="middle" font-size="10" fill="white">J4</text>
+<rect x="342.01" y="195" width="103.86" height="31" fill="#ff9da6" stroke="white"/>
+<text x="393.94" y="215" text-anchor="middle" font-size="10" fill="white">J7</text>
+<rect x="385.17" y="125" width="58.00" height="31" fill="#59a14f" stroke="white"/>
+<text x="414.17" y="145" text-anchor="middle" font-size="10" fill="white">J10</text>
+<rect x="385.17" y="160" width="70.14" height="31" fill="#f58518" stroke="white"/>
+<text x="420.24" y="180" text-anchor="middle" font-size="10" fill="white">J2</text>
+<rect x="395.96" y="55" width="80.93" height="31" fill="#9d755d" stroke="white"/>
+<text x="436.43" y="75" text-anchor="middle" font-size="10" fill="white">J8</text>
+<rect x="443.17" y="90" width="101.17" height="31" fill="#59a14f" stroke="white"/>
+<text x="493.75" y="110" text-anchor="middle" font-size="10" fill="white">J10</text>
+<rect x="445.87" y="195" width="33.72" height="31" fill="#bab0ac" stroke="white"/>
+<text x="462.73" y="215" text-anchor="middle" font-size="10" fill="white">J9</text>
+<rect x="455.31" y="160" width="45.86" height="31" fill="#b279a2" stroke="white"/>
+<text x="478.24" y="180" text-anchor="middle" font-size="10" fill="white">J5</text>
+<rect x="479.59" y="195" width="106.56" height="31" fill="#72b7b2" stroke="white"/>
+<text x="532.87" y="215" text-anchor="middle" font-size="10" fill="white">J6</text>
+<rect x="479.59" y="55" width="59.35" height="31" fill="#bab0ac" stroke="white"/>
+<text x="509.27" y="75" text-anchor="middle" font-size="10" fill="white">J9</text>
+<rect x="501.17" y="160" width="74.19" height="31" fill="#4c78a8" stroke="white"/>
+<text x="538.27" y="180" text-anchor="middle" font-size="10" fill="white">J1</text>
+<rect x="501.17" y="125" width="86.33" height="31" fill="#b279a2" stroke="white"/>
+<text x="544.34" y="145" text-anchor="middle" font-size="10" fill="white">J5</text>
+<rect x="544.34" y="90" width="117.35" height="31" fill="#ff9da6" stroke="white"/>
+<text x="603.01" y="110" text-anchor="middle" font-size="10" fill="white">J7</text>
+<rect x="544.34" y="55" width="129.49" height="31" fill="#59a14f" stroke="white"/>
+<text x="609.08" y="75" text-anchor="middle" font-size="10" fill="white">J10</text>
+<rect x="586.15" y="195" width="21.58" height="31" fill="#f58518" stroke="white"/>
+<rect x="587.50" y="125" width="132.19" height="31" fill="#bab0ac" stroke="white"/>
+<text x="653.59" y="145" text-anchor="middle" font-size="10" fill="white">J9</text>
+<rect x="607.73" y="195" width="106.56" height="31" fill="#e45756" stroke="white"/>
+<text x="661.01" y="215" text-anchor="middle" font-size="10" fill="white">J4</text>
+<rect x="661.69" y="90" width="55.30" height="31" fill="#9d755d" stroke="white"/>
+<text x="689.34" y="110" text-anchor="middle" font-size="10" fill="white">J8</text>
+<rect x="673.83" y="55" width="124.10" height="31" fill="#72b7b2" stroke="white"/>
+<text x="735.88" y="75" text-anchor="middle" font-size="10" fill="white">J6</text>
+<rect x="714.29" y="195" width="132.19" height="31" fill="#54a24b" stroke="white"/>
+<text x="780.39" y="215" text-anchor="middle" font-size="10" fill="white">J3</text>
+<rect x="716.99" y="160" width="32.37" height="31" fill="#9d755d" stroke="white"/>
+<text x="733.18" y="180" text-anchor="middle" font-size="10" fill="white">J8</text>
+<rect x="716.99" y="90" width="25.63" height="31" fill="#b279a2" stroke="white"/>
+<rect x="719.69" y="125" width="35.07" height="31" fill="#f58518" stroke="white"/>
+<text x="737.22" y="145" text-anchor="middle" font-size="10" fill="white">J2</text>
+<rect x="754.76" y="125" width="117.35" height="31" fill="#ff9da6" stroke="white"/>
+<text x="813.44" y="145" text-anchor="middle" font-size="10" fill="white">J7</text>
+<rect x="754.76" y="90" width="95.77" height="31" fill="#f58518" stroke="white"/>
+<text x="802.64" y="110" text-anchor="middle" font-size="10" fill="white">J2</text>
+<rect x="797.92" y="160" width="83.63" height="31" fill="#72b7b2" stroke="white"/>
+<text x="839.74" y="180" text-anchor="middle" font-size="10" fill="white">J6</text>
+<rect x="846.48" y="195" width="111.96" height="31" fill="#9d755d" stroke="white"/>
+<text x="902.46" y="215" text-anchor="middle" font-size="10" fill="white">J8</text>
+<rect x="850.53" y="90" width="56.65" height="31" fill="#54a24b" stroke="white"/>
+<text x="878.86" y="110" text-anchor="middle" font-size="10" fill="white">J3</text>
+<rect x="872.11" y="125" width="89.03" height="31" fill="#e45756" stroke="white"/>
+<text x="916.62" y="145" text-anchor="middle" font-size="10" fill="white">J4</text>
+<rect x="872.11" y="55" width="125.44" height="31" fill="#ff9da6" stroke="white"/>
+<text x="934.83" y="75" text-anchor="middle" font-size="10" fill="white">J7</text>
+<rect x="958.44" y="195" width="49.91" height="31" fill="#b279a2" stroke="white"/>
+<text x="983.39" y="215" text-anchor="middle" font-size="10" fill="white">J5</text>
+<rect x="961.14" y="125" width="41.81" height="31" fill="#54a24b" stroke="white"/>
+<text x="982.04" y="145" text-anchor="middle" font-size="10" fill="white">J3</text>
+<rect x="961.14" y="160" width="103.86" height="31" fill="#e45756" stroke="white"/>
+<text x="1013.07" y="180" text-anchor="middle" font-size="10" fill="white">J4</text>
+<rect x="1002.95" y="125" width="45.86" height="31" fill="#4c78a8" stroke="white"/>
+<text x="1025.88" y="145" text-anchor="middle" font-size="10" fill="white">J1</text>
+<rect x="1002.95" y="55" width="16.19" height="31" fill="#54a24b" stroke="white"/>
+<text x="110" y="272" font-size="12">0</text>
+<text x="1065" y="272" text-anchor="end" font-size="12">Cmax = 708</text>
+</svg>

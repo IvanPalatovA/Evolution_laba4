@@ -1,0 +1,76 @@
+{
+  "expression": "((max(rem_ops, p) / w) / ((1 + w) + min(wait, q_work)))",
+  "tree": {
+    "op_type": "function",
+    "value": "/",
+    "children": [
+      {
+        "op_type": "function",
+        "value": "/",
+        "children": [
+          {
+            "op_type": "function",
+            "value": "max",
+            "children": [
+              {
+                "op_type": "variable",
+                "value": "rem_ops",
+                "children": []
+              },
+              {
+                "op_type": "variable",
+                "value": "p",
+                "children": []
+              }
+            ]
+          },
+          {
+            "op_type": "variable",
+            "value": "w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "op_type": "function",
+        "value": "+",
+        "children": [
+          {
+            "op_type": "function",
+            "value": "+",
+            "children": [
+              {
+                "op_type": "constant",
+                "value": 1.0,
+                "children": []
+              },
+              {
+                "op_type": "variable",
+                "value": "w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "op_type": "function",
+            "value": "min",
+            "children": [
+              {
+                "op_type": "variable",
+                "value": "wait",
+                "children": []
+              },
+              {
+                "op_type": "variable",
+                "value": "q_work",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "training_score": 1.325572716863851,
+  "test_score": 1.2641658856166398
+}
